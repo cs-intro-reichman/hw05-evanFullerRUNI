@@ -15,7 +15,7 @@
       "setup": "javac TesterGameOfLife.java",
       "run": "java TesterGameOfLife print square.dat",
       "input": "",
-      "output": "  1  1  0\n  0  1  1  0\n  0  0  0  0\n",
+      "output": "  0  0  0  0\n  0  1  1  0\n  0  1  1  0\n  0  0  0  0\n",
       "comparison": "exact",
       "timeout": 10,
       "points": 10
