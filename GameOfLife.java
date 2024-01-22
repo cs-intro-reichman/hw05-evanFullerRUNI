@@ -145,7 +145,7 @@ public class GameOfLife {
 
 		for (int i = 1; i < rows; i++) {
 			for (int j = 1; j < cols; j++) {
-				System.out.print(" " + arr[i][j]);
+				System.out.print("  " + arr[i][j]);
 			}
 			System.out.println(" ");
 		}
